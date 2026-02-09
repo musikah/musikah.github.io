@@ -14,6 +14,7 @@ This app **does not collect, store, transmit, or process any personal data** fro
 * No analytics or tracking tools are used
 * No cookies are used
 * No data is shared with third parties
+* Any payments are handled entirely by the App Store and are not accessed by this app
 
 ## Third-Party Services
 
