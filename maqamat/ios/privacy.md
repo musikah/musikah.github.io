@@ -1,4 +1,4 @@
-# Maqamat Al-Arabiya Privacy Policy
+# Maqamat Al-Arabiya Privacy Policy 
 
 **Last updated:** February 9, 2026
 
