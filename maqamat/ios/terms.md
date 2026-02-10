@@ -1,4 +1,4 @@
-# Terms of Use
+# Maqamat Al-Arabiya Terms of Use
 
 **Last updated:** February 9, 2026
 
